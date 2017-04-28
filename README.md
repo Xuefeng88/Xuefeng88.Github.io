@@ -1,10 +1,6 @@
-# CVJohnny Coder
-============
+# Xuefeng Jin
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+E-mail: hbkim66@hotmail.com
 -------------------     ----------------------------
 
 Education
