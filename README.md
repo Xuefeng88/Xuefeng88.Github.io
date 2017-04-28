@@ -1,7 +1,12 @@
 # Xuefeng Jin
 
+Ph.D. student
+Logistic Systems Lab.
+Pusan National University
+Telephone: +82-10-2258-6088
 E-mail: hbkim66@hotmail.com
--------------------     ----------------------------
+Address: Pusan National University Street No. 63 (Jangjeon-dong 2), Geumjeong-gu, Busan, Republic of Korea
+
 
 Education
 ---------
