@@ -17,15 +17,13 @@ Education
 2013.03-2018.03 (expected)
 :   **Ph.D., Industrial Engineering**; [Pusan National University](www.pusan.ac.kr) (Busan, Korea)
     
-    *Thesis title: -----------------*    
-    
+    *Thesis title: -----------------*
     *Advisor: Kap Hwan Kim*
     
 2010.09-2012.06
 :   **M.S., Industrial Engineering**; [Beijing Jiaotong University](www.bjtu.edu.cn) (Beijing, China)
     
     *Thesis title: -----------------*
-    
     *Advisor: Jiayi Yao*
     
 2006.09-2010.06
