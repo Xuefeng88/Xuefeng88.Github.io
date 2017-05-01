@@ -44,4 +44,4 @@ Programming Languages
     **JAVA**, **CPLEX**, **C++**, **SimTalk**
 
 Human Languages
-    ** Chinese (native speaker) **, ** Korean (native speaker) **, ** English **, ** Japanese **
+    **Chinese (native speaker)**, **Korean (native speaker)**, **English**, **Japanese**
