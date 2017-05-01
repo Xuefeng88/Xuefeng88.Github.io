@@ -45,7 +45,4 @@ Programming Languages
 
 Human Languages
 --------------------
-:    ** Chinese (native speaker) **
-:    ** Korean (native speaker) **
-:    ** English **
-:    ** Japanese **
+:    ** Chinese (native speaker) **, ** Korean (native speaker) **, ** English **, ** Japanese **
