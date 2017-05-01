@@ -33,13 +33,9 @@ Education
     
     *Thesis title: -----------------*
 
-Experience
+Research Experience
 ----------
 
-**Your Most Recent Work Experience:**
-
-
-**That Other Job You Had**
 
 
 Technical Experience
@@ -47,9 +43,9 @@ Technical Experience
 Programming Languages
 :   Basic knowledge of **JAVA**, **CPLEX**, **C++**, **SimTalk**
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
-* Human Languages:
-     * English (native speaker)
-     * Korean
-     * Japanese
+Human Languages
+--------------------
+:    ** Chinese (native speaker) **
+:    ** Korean (native speaker) **
+:    ** English **
+:    ** Japanese **
