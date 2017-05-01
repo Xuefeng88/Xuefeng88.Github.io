@@ -40,8 +40,8 @@ Research Experience
 
 Technical Experience
 --------------------
-Programming Languages
+Programming Languages:
     **JAVA**, **CPLEX**, **C++**, **SimTalk**
 
-Human Languages
+Human Languages:
     **Chinese (native speaker)**, **Korean (native speaker)**, **English**, **Japanese**
